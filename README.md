@@ -23,4 +23,9 @@
 3. run the project by using the following command:
 
   $ gulp
+4. if you don't have a default browser specified, 
+  open http://localhost:3000
+5. stop running the project by using the following command:
+
+  $ Ctrl + c
 
