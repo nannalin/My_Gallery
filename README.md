@@ -1,4 +1,4 @@
-# My_Gallery
+# My Gallery
 ## Before running the project
 1. check if you have node install on your local machine by using the following command:
 
