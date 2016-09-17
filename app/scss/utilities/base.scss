@@ -1,0 +1,48 @@
+@import 'reset';
+@import 'variables';
+
+html{
+  font-size: 100%;
+}
+body{
+  font-size: 1em; /*16px*/
+  line-height: 1.4em;
+  font: 100% $font;
+  background-color: $lightGrey;
+}
+.header{
+  font-size: 1.75em;/*36px*/
+  color: $white;
+}
+.text-center {
+	margin: auto;
+    text-align: center;
+}
+.container {
+	width:100%;
+}
+.banner {
+	width:100%;
+	padding-top: 0.1em;
+	padding-bottom: 0.1em;
+	background-color: $blue;
+}
+.footer {
+	width:100%;
+	padding-top: 0.1em;
+	padding-bottom: 0.1em;
+	color: $midGrey;
+	background-color: $paleGrey;
+}
+.container-fluid {
+    padding: 15px;
+    margin: auto;
+}
+.error-text {
+	color: $red;
+	font-size: 1em;
+}
+
+
+
+

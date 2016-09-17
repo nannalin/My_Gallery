@@ -1,0 +1,21 @@
+.image-grid {
+  padding: 10px;
+  float: left; }
+
+#image-container {
+  display: block;
+  margin: auto;
+  width: 90%; }
+
+#image-container:after {
+  content: '';
+  display: block;
+  clear: both; }
+
+[draggable] {
+  user-select: none; }
+
+img {
+  padding: 10px;
+  width: 31.5%;
+  height: auto; }
